@@ -2,6 +2,7 @@ purple
 yellow
 green
 indingo
+blue
 pink
 unicorn
 red
