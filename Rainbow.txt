@@ -3,5 +3,6 @@ yellow
 green
 indingo
 pink
+unicorn
 red
-these are colors of rainbow
+these are colors of rainbow and unicorn
