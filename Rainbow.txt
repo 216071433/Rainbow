@@ -1,6 +1,7 @@
 purple
 yellow
 green
+indingo
 pink
 red
 these are colors of rainbow
